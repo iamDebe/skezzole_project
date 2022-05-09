@@ -5729,6 +5729,7 @@ z .slider-area .hero-cap h2 {
 .footer-area .footer-tittle ul li a {
     color: #868c98;
     font-weight: 300;
+    font-size: 16px;
 }
 .footer-area .footer-tittle ul li a:hover {
     color: #628c23;
